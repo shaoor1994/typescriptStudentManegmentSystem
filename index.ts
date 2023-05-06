@@ -1,3 +1,7 @@
+#!/usr/bin/env node 
+
+
+
 // import addStudent from "./src/AddStudent.js";
 // import enrollStudentInCourse from "./src/CourseEnrollment.js";
 
